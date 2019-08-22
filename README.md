@@ -70,6 +70,19 @@
 - Eclipse
   这个项目是基于`IDEA`创建,我这里把项目转成了`Eclipse`的项目,如果你使用Eclipse的话也可以直接导入,只是步骤更繁琐一点,[Eclipse导入步骤](/note/EclipseImport.md)
 
+## 项目编码 
+
+项目总结可能比较的长,**密集恐惧症**者请按小节进行阅读  
+
+- [(一)Java高并发秒杀API之业务分析与DAO层](/note/note1.md)
+- [(二)Java高并发秒杀API之Service层](/note/note2.md)
+- [(三)Java高并发秒杀API之web层](/note/note3.md)
+- [(四)Java高并发秒杀API之高并发优化](/note/note4.md)  
+
+这里按照上面几个流程走下去,你要有基本的Maven认识以及Java语法的一些概念,要不然可能不太理解
+
+---
+
 ### (一)Java高并发秒杀APi之业务分析与DAO层代码编写
 
 #### 构建项目的基本骨架
